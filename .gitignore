@@ -1,0 +1,11 @@
+venv
+.venv
+./venv
+
+flaskenv
+.flaskenv
+./flaskenv
+
+__pycache__
+.__pycache__
+./__pycache__
